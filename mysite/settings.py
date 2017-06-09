@@ -25,7 +25,7 @@ SECRET_KEY = '0z@%mkhq30)6iwtarq5b2z_9m=#yom=h3(r0vx2p!40*xk+wy8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<roiano>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'roiano.pythonanywhere.com']
 
 
 # Application definition
